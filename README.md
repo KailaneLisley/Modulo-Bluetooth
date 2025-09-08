@@ -32,7 +32,7 @@ Introduzir conceitos básicos de eletrônica, programação e automação.
 - LED negativo → GND (Arduino)
 
 ## Veja o esquema no ThinkerCAD:
-
+[Esquema no ThinkerCAD](https://github.com/KailaneLisley/Modulo-Bluetooth/blob/main/code.c)
 
 ## 💻 Código Arduino
 
