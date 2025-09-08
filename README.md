@@ -35,7 +35,7 @@ Introduzir conceitos básicos de eletrônica, programação e automação.
 [Esquema no ThinkerCAD](https://github.com/KailaneLisley/Modulo-Bluetooth/blob/main/code.c)
 
 ## 💻 Código Arduino
-
+[Código](https://github.com/KailaneLisley/Modulo-Bluetooth/blob/main/code.c)
 
 ## 📱 Funcionamento
 
