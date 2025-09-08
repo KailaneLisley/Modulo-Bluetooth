@@ -38,6 +38,7 @@ Introduzir conceitos básicos de eletrônica, programação e automação.
 ## 📱 Funcionamento
 
 O controle foi feito utilizando o aplicativo Arduino Bluetooth Controller, permitindo ligar e desligar o LED em tempo real.
+![Funcionamento](https://github.com/KailaneLisley/Modulo-Bluetooth/blob/main/midia1.png)
 
 ## 🎥 Vídeo do funcionamento
 
