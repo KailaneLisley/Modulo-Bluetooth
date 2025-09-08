@@ -6,8 +6,6 @@ O projeto foi desenvolvido como parte da disciplina de Robótica Inclusiva, com 
 
 Relatório_Robótica_Inclusiva
 
-.
-
 ## 🎯 Objetivo
 
 Demonstrar a comunicação entre smartphones e microcontroladores via Bluetooth.
@@ -32,7 +30,7 @@ Introduzir conceitos básicos de eletrônica, programação e automação.
 - LED negativo → GND (Arduino)
 
 ## Veja o esquema no ThinkerCAD:
-[Esquema no ThinkerCAD](https://github.com/KailaneLisley/Modulo-Bluetooth/blob/main/code.c)
+[Esquema no ThinkerCAD]([https://github.com/KailaneLisley/Modulo-Bluetooth/blob/main/code.c](https://github.com/KailaneLisley/Modulo-Bluetooth/blob/main/Bluetooth.png))
 
 ## 💻 Código Arduino
 [Código](https://github.com/KailaneLisley/Modulo-Bluetooth/blob/main/code.c)
